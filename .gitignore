@@ -1,0 +1,4 @@
+.venv/
+Common_Test_1/dataset/
+*.zip
+.idea/
