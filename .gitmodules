@@ -1,0 +1,6 @@
+[submodule "Test2_Agentic/DeepLenseSim"]
+	path = Test2_Agentic/DeepLenseSim
+	url = https://github.com/KunalG-Zol/DeepLenseSim.git
+[submodule "test_2_agentic/pyHalo"]
+	path = test_2_agentic/pyHalo
+	url = https://github.com/dangilman/pyHalo.git

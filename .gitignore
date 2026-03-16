@@ -1,4 +1,6 @@
 .venv/
-Common_Test_1/dataset/
+test_1_common/dataset/
 *.zip
 .idea/
+test_2_agentic/DeepLenseSim/
+test_2_agentic/pyHalo/
