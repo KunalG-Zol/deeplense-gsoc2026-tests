@@ -1,0 +1,3 @@
+[submodule "test_2_agentic/DeepLenseSim"]
+	path = test_2_agentic/DeepLenseSim
+	url = https://github.com/KunalG-Zol/DeepLenseSim.git

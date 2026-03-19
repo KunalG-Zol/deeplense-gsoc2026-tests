@@ -2,7 +2,6 @@ import random
 import numpy as np
 from pathlib import Path
 from deeplense.lens import DeepLens
-from pydantic_ai import RunContext
 
 
 def _create_save_dir(model_label: str, sim_class: str) -> Path:
