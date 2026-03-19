@@ -2,5 +2,6 @@
 test_1_common/dataset/
 *.zip
 .idea/
-test_2_agentic/DeepLenseSim/
 test_2_agentic/pyHalo/
+test_2_agentic/agent/__pycache__
+test_2_agentic/agent/outputs/
